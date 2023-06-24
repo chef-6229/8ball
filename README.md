@@ -1,0 +1,2 @@
+# 8ball
+Decision generator
